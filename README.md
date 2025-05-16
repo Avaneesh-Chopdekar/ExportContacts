@@ -14,6 +14,8 @@ Features
 
 Easily share via Share Intent in Android
 
+Used Set data structure to avoid duplicate contacts
+
 LazyColumn (RecyclerView of Jetpack compose) used for handling massive contacts list
 
 Mady by Avaneesh Chopdekar
